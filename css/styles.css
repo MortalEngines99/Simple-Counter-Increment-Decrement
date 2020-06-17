@@ -16,6 +16,11 @@ body{
     align-items:center;
 }
 
+.btn-container{
+    display:flex;
+    flex-wrap: wrap;
+}
+
 p{
     font-size:10rem;
     font-weight:700;
